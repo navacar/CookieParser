@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Themes">
+        <file>Themes/Diffnes.qss</file>
+        <file>Themes/Integrid.qss</file>
+    </qresource>
+</RCC>
